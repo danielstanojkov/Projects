@@ -1,1 +1,2 @@
-# Brainster Labs Full Stack - Project01
+# Project01
+## Brainster Labs Project :grin:
